@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Muhammad Moeed Ikram 👋
+### CS Student · Gen-AI | DevOps | Data Science | App Dev
 
-<!--
-**Devher12/Devher12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building intelligent, data-driven, and deployable systems — one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Computer Science student at Beaconhouse National University, Lahore, Pakistan
+- 🤖 Working at the intersection of **Generative AI, Data Science, DevOps & App Development**
+- 📱 Building cross-platform mobile apps with **Flutter**
+- 🔭 Currently exploring **LLM & data Science , CI/CD automation & cloud-native architecture**
+- 🌱 Passionate about turning real-world problems into production-ready solutions
+- 🤝 Active volunteer — contributed to **5+ community and tech initiatives**
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 Food Delivery App
+> Cross-platform mobile application built with Flutter
+- Full ordering flow — browse, cart, checkout, order tracking
+- Clean UI with real-time status updates
+- **Tech:** Flutter · Dart · Firebase
+
+
+### 🅿️ Parking Detection System
+> Real-time parking space detection using Computer Vision
+- Detects occupied vs vacant spots from live camera feed
+- Built using OpenCV and deep learning object detection
+- Achieved high accuracy on real parking lot footage
+- **Tech:** Python · OpenCV · YOLOv8 · NumPy
+
+
+### 🥗 Diet Recommendation Bot
+> AI/ML-powered personalized nutrition assistant
+- Recommends diet plans based on user health data and goals
+- Built on a trained ML model with a conversational interface
+- **Tech:** Python · Scikit-learn · NLP · Streamlit / FastAPI
+-
+
+### ⚙️ End-to-End DevOps Pipeline
+> Complete CI/CD infrastructure from code to deployment
+- Git workflow → Docker containerization → automated CI/CD pipeline
+- Covers branching strategy, image builds, testing gates and deployment
+- **Tech:** Git · Docker · GitHub Actions · CI/CD · 
+-
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML & Data**
+Python · Scikit-learn · TensorFlow · OpenCV · NLP · Streamlit
+
+**DevOps & Cloud**
+Git · Docker · GitHub Actions · CI/CD · Linux · Shell scripting
+
+**App Development**
+Flutter · Dart · Firebase · REST APIs
+
+**Web & Backend**
+FastAPI · Node.js · MongoDB · SQL
+
+---
+
+## 🏅 Volunteer & Community
+
+- ✅ Vice-President — Scitech, 2025
+- ✅ Associate Director Planning — Climate Acion Coalition, 2025
+- ✅ Campus Ambassdor PSIFI — PSIFI,Lums, 2025
+- ✅ Campus Ambassdor Softec — Softec Fast, 2025
+- ✅ Head Workshops — Bestival 11,BNU, 2025
+
+---
+
+
+## 📬 Connect With Me
+
+- 🌐 Portfolio: [yourportfolio.com](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/moeed-ikram-80803b321](#)
+- 📧 Email: [f2023-548@bnu.edu.pk]
+
+---
+
+*Open to collaborations, internships, and research opportunities.*
