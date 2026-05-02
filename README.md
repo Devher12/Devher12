@@ -35,7 +35,7 @@ Building intelligent, data-driven, and deployable systems — one project at a t
 
 ### 🥗 Diet Recommendation Bot
 > AI/ML-powered personalized nutrition assistant
-- Recommends diet plans based on user health data and goals
+- Recommends diet plans and excercises 
 - Built on a trained ML model with a conversational interface
 - **Tech:** Python · Scikit-learn · NLP · Streamlit / FastAPI
 -
@@ -71,7 +71,7 @@ FastAPI · Node.js · MongoDB · SQL
 - ✅ Associate Director Planning — Climate Acion Coalition, 2025
 - ✅ Campus Ambassdor PSIFI — PSIFI,Lums, 2025
 - ✅ Campus Ambassdor Softec — Softec Fast, 2025
-- ✅ Head Workshops — Bestival 11,BNU, 2025
+- ✅ Head Workshops — Bestival 11 BNU, 2025
 
 ---
 
@@ -84,4 +84,4 @@ FastAPI · Node.js · MongoDB · SQL
 
 ---
 
-*Open to collaborations, internships, and research opportunities.*
+* I am fully Open to collaborations, internships, and research opportunities.*
