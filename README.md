@@ -78,8 +78,8 @@ FastAPI · Node.js · MongoDB · SQL
 
 ## 📬 Connect With Me
 
-- 🌐 Portfolio: https://portfolio-delta-rust-62.vercel.app/(#)
-- 💼 LinkedIn: https://www.linkedin.com/in/moeed-ikram-80803b321(#)
+- 🌐 Portfolio: https://portfolio-delta-rust-62.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/moeed-ikram-80803b321
 - 📧 Email: f2023-548@bnu.edu.pk
 
 ---
